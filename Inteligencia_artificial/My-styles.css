@@ -1,8 +1,0 @@
-
-.my-container {
-    display: flex; /* or inline-flex */
-    flex-wrap: wrap; 
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-  }
